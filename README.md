@@ -6,5 +6,5 @@ This repository features two approaches to monocular depth estimation: a Vision 
 ## Contributers
 - [Ali Eissa](https://github.com/spospider)
 - [Amr AbdelBaky](https://github.com/amrkhaled122)
-- [Omar Harb](https://github.com/omarharb1)
+- [Omar Harb](https://github.com/omarharb02)
 - [Sara Mohamed](https://github.com/saraa-mohamedd)
