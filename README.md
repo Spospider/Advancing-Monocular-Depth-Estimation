@@ -1,7 +1,7 @@
 # Advancing-Monocular-Depth-Estimation
-This repository features two approaches to monocular depth estimation: a Vision Transformer (ViT)-based model for fast, low-resolution predictions in real-time applications, and depth enhancement techniques applied to ZoeDepth for enhanced accuracy with low overhead via edge sharpening, superpixel segmentation, and high-frequency patch refinement.
+This repository features two approaches to monocular depth estimation: the viability of a Vision Transformer (ViT)-based model for fast, low-resolution predictions for real-time applications, and depth enhancement techniques applied to the existing ZoeDepth model for enhanced accuracy with low overhead via edge sharpening, superpixel segmentation, and high-frequency patch refinement.
 
-
+[Read the full report here](AdvMonocularDepth-Report.pdf)
 
 ## Contributers
 - [Ali Eissa](https://github.com/spospider)
